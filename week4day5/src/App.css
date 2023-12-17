@@ -1,0 +1,19 @@
+.backimage{
+  background-image: url('../public/bgheader.svg');
+
+  height: 9.8125rem
+
+}
+.bgcolor{
+  background-color: hsl(180, 29%, 50%);
+}
+
+.inputbg{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.cardshadow{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.font{
+  font-family: League Spartan,sans-serif;
+}
