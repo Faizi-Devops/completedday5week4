@@ -107,6 +107,8 @@ const Main = () =>{
                                         </div>
                                         
                                     </div>
+                                    <hr className="text-black block md:hidden " style={{ color: 'red !important',marginTop:"3px" }} />
+
                                     <div className="flex md:pl-32 lg:pl-0 md:pt-2 pt-3 lg:pt-0">
   {value.languages.map((language, index) => (
     <span onClick={()=>ongetValue(language)}
